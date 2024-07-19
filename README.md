@@ -1,9 +1,9 @@
 <h1 align="center">Auto Theme Changer - Plus UI Addon</h1>
 
-![autoThemeChanger](https://raw.githubusercontent.com/theamanstark/autoThemeChanger/v1.2/.gitassets/demoV1.2.png)
+![autoThemeChanger](https://github.com/techshreyansh0129/autoThemeChanger/blob/main/.gitassets/demoV1.2.png)
 </br>
 <h3 align="center">
-  Demo :- <a href="https://imstark.link/autoThemeChanger">Click Here</a>
+  Demo :- <a href="#">Click Here</a>
 </h3>
 
 </br>
@@ -44,11 +44,11 @@
 
 # # Update Guide
 
-1. **Adding the config is now optional because the code automatically loads a default config from a [CDN link](https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.2/config.js), but if you want to change the behavior of the `defaultToggleState` and change the time interval of `autoThemerInterval`, then use your custom config from the [documentation](https://github.com/theamanstark/autoThemeChanger#-documentation).**
-2. If you're going to use the Auto Theme Changer codes with some of my other codes, like [Avatar.js](https://imstark.link/avatarjs-code), [Organic Safelink](https://imstark.link/safelink), [ImgShield](https://imstark.link/imgshield-codes), and so on, then merge all the configs of each code into a single config and add that to your site. **(No longer needed as the structure of the config for the Auto Theme Changer has been changed, and it is now `const ThemeManagerConfig` instead of `const config`.)**
-3. If you're using the `v1.0` parameter in the CDN link for the CSS and the JS, then change it to `v1.2` or `latest` and add the `config.js` (optional as mentioned in point 1) as shown in the [documentation](https://github.com/theamanstark/autoThemeChanger#-documentation).
-4. If you're using the `latest` parameter in the CDN link for the CSS and JS, then add the `config.js` (optional as mentioned in point 1) shown in the second part of the [documentation](https://github.com/theamanstark/autoThemeChanger#-documentation).
-5. If you're using inline CSS styles and JS, then replace the previous code with the newer one and add the `config.js` (optional as mentioned in point 1) along with it from the [documentation](https://github.com/theamanstark/autoThemeChanger#-documentation).
+1. **Adding the config is now optional because the code automatically loads a default config from a [CDN link](https://theamanstark.com/cdn/blogger/plus-ui/autoThemeChanger/v1.2/config.js), but if you want to change the behavior of the `defaultToggleState` and change the time interval of `autoThemerInterval`, then use your custom config from the [documentation](https://github.com/techshreyansh0129/autoThemeChanger#-documentation).**
+2. If you're going to use the Auto Theme Changer codes with some of my other codes, like [Avatar.js](#), [Organic Safelink](https://github.com/techshreyansh0129/Organic-Safelink), [ImgShield](https://github.com/techshreyansh0129/sensitive-image-shield), and so on, then merge all the configs of each code into a single config and add that to your site. **(No longer needed as the structure of the config for the Auto Theme Changer has been changed, and it is now `const ThemeManagerConfig` instead of `const config`.)**
+3. If you're using the `v1.0` parameter in the CDN link for the CSS and the JS, then change it to `v1.2` or `latest` and add the `config.js` (optional as mentioned in point 1) as shown in the [documentation](https://github.com/techshreyansh0129/autoThemeChanger#-documentation).
+4. If you're using the `latest` parameter in the CDN link for the CSS and JS, then add the `config.js` (optional as mentioned in point 1) shown in the second part of the [documentation](https://github.com/techshreyansh0129/autoThemeChanger#-documentation).
+5. If you're using inline CSS styles and JS, then replace the previous code with the newer one and add the `config.js` (optional as mentioned in point 1) along with it from the [documentation](https://github.com/techshreyansh0129/autoThemeChanger#-documentation).
 6. There have been some minor changes in the `HTML` as well, but if you don't want to update it, then there is no problem; the previous version will work fine.
 
 </br>
